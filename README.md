@@ -9,5 +9,5 @@ I am a 3rd-year student, currently pursuing Bachelors in Computer Science with s
   
 -✍🏻 I'm currently interested in diving deep into the world of HTML, CSS, JavaScript
   
--📫 Reach me through LinkedIn: https://www.linkedin.com/in/kartik-sengar-300b9821b/
+-📫 Reach me through LinkedIn: https://www.linkedin.com/in/kartik-sengar/
   </ui>
