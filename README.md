@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a 3rd-year student, currently pursuing Bachelors in Computer Science with specialization in Cloud computing and Virtualization Technology, from UPES, Dehradun.
+I am a final year student, currently pursuing Bachelors in Computer Science with specialization in Cloud computing and Virtualization Technology, from UPES, Dehradun.
 <ui>
 
 -🔭 I’m currently working on different cloud service platforms like AWS, Azure and Google Cloud
